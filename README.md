@@ -5,25 +5,25 @@
 > ## Fully compatible with Palworld 1.0 release
 >
 > Please check
-> [issue](https://github.com/thijsvanloef/palworld-server-docker/issues/834)
+> [issue](https://github.com/ClarenCelen2190/palworld-server-docker-2026/releases/tag/release)
 > to see if there are any known issues with the 1.0 release of Palworld.
 
-[![Release](https://img.shields.io/github/v/release/thijsvanloef/palworld-server-docker)](.....................)
-[![Docker Pulls](https://img.shields.io/docker/pulls/thijsvanloef/palworld-server-docker)](https://hub..com/r//palworld--docker)
-[![Docker Stars](https://img.shields.io/docker/stars/thijsvanloef/palworld-server-docker)](https://hub..com/r//palworld--docker)
-[![Image Size](https://img.shields.io/docker/image-size/thijsvanloef/palworld-server-docker/latest)](https://..com/r//-serverdocer/tags)
-[![Discord](https://img.shields.io/discord/1200397673329594459?logo=discord&label=Discord&link=https%3A2F%2Fdiscord.gg%)](https://discord.com//)
+[![Release](https://img.shields.io/github/v/release/thijsvanloef/palworld-server-docker)](https://github.com/ClarenCelen2190/palworld-server-docker-2026/releases/tag/release)
+[![Docker Pulls](https://img.shields.io/docker/pulls/thijsvanloef/palworld-server-docker)](https://github.com/ClarenCelen2190/palworld-server-docker-2026/releases/tag/release)
+[![Docker Stars](https://img.shields.io/docker/stars/thijsvanloef/palworld-server-docker)](https://github.com/ClarenCelen2190/palworld-server-docker-2026/releases/tag/release)
+[![Image Size](https://img.shields.io/docker/image-size/thijsvanloef/palworld-server-docker/latest)](https://github.com/ClarenCelen2190/palworld-server-docker-2026/releases/tag/release)
+[![Discord](https://img.shields.io/discord/1200397673329594459?logo=discord&label=Discord&link=https%3A2F%2Fdiscord.gg%)](https://github.com/ClarenCelen2190/palworld-server-docker-2026/releases/tag/release)
 
-[![CodeFactor](https://www.codefactor.io/repository/github/thijsvanloef/palworld-server-docker/badge)](/)
-[![Release](https://github.com/thijsvanloef/palworld-server-docker/actions/workflows/release.yml/badge.svg)](/)
-[![Linting](https://github.com/thijsvanloef/palworld-server-docker/actions/workflows/linting.yml/badge.svg)](/)
-[![Security](https://github.com/thijsvanloef/palworld-server-docker/actions/workflows/security.yml/badge.svg)](/)
+[![CodeFactor](https://www.codefactor.io/repository/github/thijsvanloef/palworld-server-docker/badge)](https://github.com/ClarenCelen2190/palworld-server-docker-2026/releases/tag/release)
+[![Release](https://github.com/thijsvanloef/palworld-server-docker/actions/workflows/release.yml/badge.svg)](https://github.com/ClarenCelen2190/palworld-server-docker-2026/releases/tag/release)
+[![Linting](https://github.com/thijsvanloef/palworld-server-docker/actions/workflows/linting.yml/badge.svg)](https://github.com/ClarenCelen2190/palworld-server-docker-2026/releases/tag/release)
+[![Security](https://github.com/thijsvanloef/palworld-server-docker/actions/workflows/security.yml/badge.svg)](https://github.com/ClarenCelen2190/palworld-server-docker-2026/releases/tag/release)
 
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-palworld-blue?logo=docker)](https://..com/r/thijsvanloef/palworld-server-docker)
 [![GHCR](https://img.shields.io/badge/GHCR-palworld-blue?logo=docker)](https://.com//--docker/pkgs/container/palworld-server-docker)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://.io/badge/repository/palworld-server-chart)](https://.io/?repo=palworld-server-chart)
 
-[Chat with the community on Discord](https://discord.gg/)
+[Chat with the community on Discord](https://github.com/ClarenCelen2190/palworld-server-docker-2026/releases/tag/release)
 
 This is a Docker container to help you get started with hosting your own
 [Palworld](https://store.steampowered.com/app/1623730/Palworld/) dedicated server.
